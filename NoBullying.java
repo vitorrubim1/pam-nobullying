@@ -1,5 +1,10 @@
 public class NoBullying {
 	public static void main(String[] args){ 
-       System.out.println('Programa NoBullying');   
+       System.out.println('Programa NoBullying');
+	   System.out.println('1ºPasso: Direcionar mais verba para auxílio psicológico nas escolas; ');
+	   System.out.println('2ºPasso: Ter mais atenção em pessoas que estão tendenciosas a sofrer bullying');
+	   System.out.println('3ºPasso: Não praticar');
+	   System.out.println('4ºPasso: Conversar e repreender quem pratica');
+	   System.out.println('5ºPasso: Não achar que Bullying é uma "brincadeira inofensiva"');
 	}
 } 
