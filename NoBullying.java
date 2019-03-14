@@ -6,5 +6,6 @@ public class NoBullying {
 	   System.out.println('3ºPasso: Não praticar');
 	   System.out.println('4ºPasso: Conversar e repreender quem pratica');
 	   System.out.println('5ºPasso: Não achar que Bullying é uma "brincadeira inofensiva"');
+	   System.out.println('6ºPasso: Ajudar o amigo que está agindo de forma estranha ');
 	}
 } 
