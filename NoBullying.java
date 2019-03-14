@@ -10,5 +10,6 @@ public class NoBullying {
 	   System.out.println('7ºPasso: Não incetivar quem pratica');
 	   System.out.println('8ºPasso: Aceitar diversidades da sociedade');
 	   System.out.println('9ºPasso: Denunciar quem pratica');
+	   System.out.println('10ºPasso: Pena severa ao crime. ');
 	}
 } 
