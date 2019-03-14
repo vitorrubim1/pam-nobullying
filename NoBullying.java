@@ -9,5 +9,6 @@ public class NoBullying {
 	   System.out.println('6ºPasso: Ajudar o amigo que está agindo de forma estranha ');
 	   System.out.println('7ºPasso: Não incetivar quem pratica');
 	   System.out.println('8ºPasso: Aceitar diversidades da sociedade');
+	   System.out.println('9ºPasso: Denunciar quem pratica');
 	}
 } 
